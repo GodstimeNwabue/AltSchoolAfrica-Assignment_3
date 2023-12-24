@@ -286,6 +286,10 @@ button {
     color: white;
 }
 
+.payment--client-reviews {
+    font-style: italic;
+}
+
 hr {
     opacity: 0.2005;
     background: #FFF;
